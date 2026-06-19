@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://inquiries-vat-bike-museum.trycloudflare.com/vnc.html
+URL       : https://harvard-wait-college-magazines.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-19 03:43:29
+Created   : 2026-06-19 09:28:18
 =======================================================
