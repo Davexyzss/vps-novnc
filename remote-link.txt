@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://appeals-pendant-choices-month.trycloudflare.com/vnc.html
+URL       : https://formerly-plants-minute-designated.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-21 03:28:13
+Created   : 2026-06-21 08:57:38
 =======================================================
