@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://behalf-harvard-celtic-importance.trycloudflare.com/vnc.html
+URL       : https://territories-conduct-cluster-pilot.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-21 21:10:41
+Created   : 2026-06-22 03:33:46
 =======================================================
