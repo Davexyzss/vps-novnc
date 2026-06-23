@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hwy-smaller-hall-mailed.trycloudflare.com/vnc.html
+URL       : https://allocation-scope-brisbane-survivors.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-23 17:21:19
+Created   : 2026-06-23 21:29:56
 =======================================================
