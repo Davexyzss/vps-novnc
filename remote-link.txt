@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://transit-numerous-mainstream-lead.trycloudflare.com/vnc.html
+URL       : https://slowly-november-mailman-calcium.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-06-27 07:46:58
+Created   : 2026-06-27 11:26:15
 =======================================================
