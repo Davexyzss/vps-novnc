@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://ronald-colour-executed-ppm.trycloudflare.com/vnc.html
+URL       : https://solar-buried-quizzes-screening.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-04 15:59:38
+Created   : 2026-07-04 20:51:16
 =======================================================
