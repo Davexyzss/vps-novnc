@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://secretary-com-licensed-locator.trycloudflare.com/vnc.html
+URL       : https://industrial-filter-reflect-elegant.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-07 17:10:57
+Created   : 2026-07-07 21:20:59
 =======================================================
