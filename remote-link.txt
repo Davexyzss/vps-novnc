@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://circuit-transmission-greensboro-luxury.trycloudflare.com/vnc.html
+URL       : https://adds-faculty-busy-samba.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-07-20 16:23:48
+Created   : 2026-07-20 21:07:38
 =======================================================
