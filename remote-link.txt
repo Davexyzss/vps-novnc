@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://environmental-bringing-educated-atm.trycloudflare.com/vnc.html
+URL       : https://words-extreme-pointed-districts.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-01 20:44:29
+Created   : 2026-08-02 02:08:00
 =======================================================
