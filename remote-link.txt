@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://slot-advocate-actor-cpu.trycloudflare.com/vnc.html
+URL       : https://founded-differently-soviet-thorough.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-07 10:48:19
+Created   : 2026-08-07 15:51:38
 =======================================================
