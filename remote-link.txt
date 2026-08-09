@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://creator-frontpage-reaches-stand.trycloudflare.com/vnc.html
+URL       : https://licence-admission-dance-spreading.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-09 15:26:27
+Created   : 2026-08-09 20:26:29
 =======================================================
