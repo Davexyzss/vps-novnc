@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://manufacturing-bases-projector-black.trycloudflare.com/vnc.html
+URL       : https://bases-western-modular-least.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-15 15:16:13
+Created   : 2026-08-15 20:16:26
 =======================================================
