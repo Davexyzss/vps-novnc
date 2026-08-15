@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://known-compact-protocol-ports.trycloudflare.com/vnc.html
+URL       : https://miscellaneous-assuming-hair-cho.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-08-14 20:26:31
+Created   : 2026-08-15 00:53:15
 =======================================================
