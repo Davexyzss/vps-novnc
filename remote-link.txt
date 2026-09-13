@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://adaptation-entitled-quit-readers.trycloudflare.com/vnc.html
+URL       : https://arrange-long-illustration-facility.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-13 14:03:12
+Created   : 2026-09-13 17:51:21
 =======================================================
