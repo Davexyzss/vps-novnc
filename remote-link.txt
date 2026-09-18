@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://com-watched-bond-mood.trycloudflare.com/vnc.html
+URL       : https://nest-architects-accessing-buried.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-18 14:03:27
+Created   : 2026-09-18 18:02:44
 =======================================================
