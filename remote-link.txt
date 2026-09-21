@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://declared-some-pixel-equation.trycloudflare.com/vnc.html
+URL       : https://resolved-wait-injured-areas.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-21 10:22:47
+Created   : 2026-09-21 19:52:23
 =======================================================
