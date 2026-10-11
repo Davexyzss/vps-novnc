@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://trains-strong-kills-following.trycloudflare.com/vnc.html
+URL       : https://conducting-academy-feed-baths.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-11 11:10:55
+Created   : 2026-10-11 19:19:11
 =======================================================
