@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://transformation-pub-gzip-fireplace.trycloudflare.com/vnc.html
+URL       : https://strange-radical-minute-dishes.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-18 09:18:31
+Created   : 2026-10-18 13:45:01
 =======================================================
