@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://economies-saturn-dad-walking.trycloudflare.com/vnc.html
+URL       : https://touch-dot-staff-happen.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-21 23:01:02
+Created   : 2026-10-22 02:50:38
 =======================================================
