@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://touch-dot-staff-happen.trycloudflare.com/vnc.html
+URL       : https://scratch-amendments-projector-predict.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-10-22 02:50:38
+Created   : 2026-10-22 09:48:22
 =======================================================
